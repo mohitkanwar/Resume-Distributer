@@ -18,3 +18,20 @@ This application would help me distribute my resume to various Job portals.
      * http://www.hiree.com/Jobs
      * https://www.freshersworld.com
  
+Objects in the System
+---------------------
+1. User
+    1. Name
+    2. Email Address
+    3. Phone Number
+    4. Job history * 
+    5. Education *
+    6. Certification *
+    
+2. Job Portal
+    1. Name
+    2. Logo
+    3. url
+    4. login-and-update-resume
+3. Resume
+4. Cover Letter
