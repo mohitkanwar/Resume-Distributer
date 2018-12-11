@@ -1,5 +1,7 @@
 # Resume-Distributer
-This application would help me distribute my resume to various Job portals.
+This application would help me distribute my resume to 
+  * Recruiters who have contacted me in past
+  * various Job portals.
 
 ##Inputs required from End User
  * Resume (word/pdf)
